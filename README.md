@@ -5,7 +5,7 @@ Quaternion utility nodes that are missing from Autodesk Maya's quatNodes plugin.
 
 Nodes
     axisAngleToQuat
-    quatSlerp node
+    quatSlerp
     quatToAxisAngle
     
 Commands
