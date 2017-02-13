@@ -1,12 +1,11 @@
-Copyright (c) 2016 Ryan Porter
-You may use, distribute, or modify this code under the terms of the MIT license.
-
+# quatExtras
 Quaternion utility nodes that are missing from Autodesk Maya's quatNodes plugin.
 
-Nodes
-    axisAngleToQuat
-    quatSlerp
-    quatToAxisAngle
-    
-Commands
-    None
+## Description
+See the [Wiki](https://github.com/yantor3d/quatExtras/wiki) for full details.
+
+## Plugin Contents
+### Nodes
+- axisAngleToQuat
+- quatSlerp
+- quatToAxisAngle
