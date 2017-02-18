@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 2.6)
 
 set(CMAKE_MODULE_PATH "$ENV{CMAKE_MODULE_PATH}")
     
-project(quadExtras)   
+project(quatExtras)   
     file(GLOB SOURCE_FILES "src/*.cpp" "src/*.h")
     find_package(Maya REQUIRED) 
 
